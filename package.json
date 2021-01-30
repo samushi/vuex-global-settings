@@ -1,7 +1,7 @@
 {
   "private": false,
   "name": "samushi-global-settings",
-  "version": "0.0.1",
+  "version": "1.0.1",
   "description": "Vue Plugin which make easy to seperate your global settings from vuex modules",
   "main": "./dist/index.js",
   "scripts": {
